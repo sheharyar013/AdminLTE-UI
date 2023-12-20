@@ -48,9 +48,9 @@ export default function Chats() {
               id="revenue-chart-img"
               src={Chart}
               alt="chart"
-              height="280"
               style={{
                 height: "280px",
+                width: "100%",
               }}
             ></img>
           </div>

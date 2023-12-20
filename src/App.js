@@ -49,7 +49,7 @@ function App() {
             ))}
           </div>
           <div className="row">
-            <div className="col-lg-7 col-7">
+            <div className="col-lg-7 col-12">
               <Chats />
             </div>
             <div className="col-lg-5 col-12">
